@@ -1,0 +1,39 @@
+.staff{
+    background-color: #43302a;
+    height: 63rem;
+    padding-top: 1vh;
+    margin-top: 8vh;
+}
+.custom  {
+    font-family: 'Arial Black', sans-serif;
+    text-transform: uppercase;
+  
+}
+.stafff{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.home{
+    width: 350px;
+    /* height: 50px; */
+    object-fit: cover;
+
+}
+
+@media (max-width: 425px) {
+
+.staff{
+    height: 138rem;
+   
+}
+.nap{
+    gap: 1rem;
+}
+
+.home{
+    gap: rem;
+}
+
+   }

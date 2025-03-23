@@ -1,0 +1,19 @@
+.lay{
+              background-color: #9c6b08;
+              height: 80vh;
+              padding-top: 10vh;
+              margin-bottom:1vh;
+}
+.custom-font {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+
+
+  
+ @media (max-width: 425px) {
+
+    .lay{
+      height: 80vh;
+    }
+   }

@@ -1,0 +1,36 @@
+.back{
+   background-color:#43302a;
+   width: 100vh;
+   height: 43vh;
+ }
+ .border{
+  width: 10vh;
+ }
+ .custom  {
+  font-family: 'Arial Black', sans-serif;
+  text-transform: uppercase;
+
+ }
+
+ .DM{
+  font-family: 'DM Sans', sans-serif;
+  font-size: 2vh;
+
+ }
+
+
+
+
+
+
+
+ @media (max-width: 425px) {
+
+  .back{
+    height: 37vh;
+  }
+  .border{
+    width: 5vh;
+    margin-right: 2vh;
+  }
+ }

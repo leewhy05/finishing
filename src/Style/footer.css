@@ -1,0 +1,26 @@
+.footer{
+    background-color:#fffaeb ;
+    /* width: 100vh; */
+   height: 49vh;
+}
+
+.custo  {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    color: #43302a;
+
+  
+}
+
+
+
+
+@media (max-width: 425px) {
+    .footer{
+        height: 52vh;
+    }
+
+    .colo{
+        margin-left: 3rem;
+    }
+   }
